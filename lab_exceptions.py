@@ -1,4 +1,8 @@
 # Below you have a code that raises an exception , using what you learned do the following:
+def additoin(x, y):
+    x = 10
+    y = 20
+    print("Addition:", x + b)
 
 # Find what type of exception is raised.
 # NameError
